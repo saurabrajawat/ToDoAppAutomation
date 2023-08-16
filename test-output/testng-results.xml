@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="4859" started-at="2023-08-16T15:41:17 IST" finished-at="2023-08-16T15:41:21 IST">
+    <groups>
+    </groups>
+    <test name="ToDoAppAutomationSuit" duration-ms="4859" started-at="2023-08-16T15:41:17 IST" finished-at="2023-08-16T15:41:21 IST">
+      <class name="todo.test.ToDoTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="setUp" is-config="true" duration-ms="2773" started-at="2023-08-16T15:41:17 IST" finished-at="2023-08-16T15:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testInputValidation()[pri:1, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="testInputValidation" duration-ms="130" started-at="2023-08-16T15:41:19 IST" finished-at="2023-08-16T15:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputValidation -->
+        <test-method status="PASS" signature="addTask()[pri:2, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="addTask" duration-ms="163" started-at="2023-08-16T15:41:20 IST" finished-at="2023-08-16T15:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="markSpecificTaskAsDone()[pri:3, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="markSpecificTaskAsDone" duration-ms="247" started-at="2023-08-16T15:41:20 IST" finished-at="2023-08-16T15:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markSpecificTaskAsDone -->
+        <test-method status="PASS" signature="testDeleteSpecificTask()[pri:4, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="testDeleteSpecificTask" duration-ms="58" started-at="2023-08-16T15:41:20 IST" finished-at="2023-08-16T15:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteSpecificTask -->
+        <test-method status="PASS" signature="markAllDone()[pri:5, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="markAllDone" duration-ms="560" started-at="2023-08-16T15:41:20 IST" finished-at="2023-08-16T15:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markAllDone -->
+        <test-method status="PASS" signature="deleteAllTask()[pri:6, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="deleteAllTask" duration-ms="396" started-at="2023-08-16T15:41:21 IST" finished-at="2023-08-16T15:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllTask -->
+        <test-method status="PASS" signature="markAllNotDone()[pri:7, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="markAllNotDone" duration-ms="388" started-at="2023-08-16T15:41:21 IST" finished-at="2023-08-16T15:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markAllNotDone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:todo.test.ToDoTestCases@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="113" started-at="2023-08-16T15:41:21 IST" finished-at="2023-08-16T15:41:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- todo.test.ToDoTestCases -->
+    </test> <!-- ToDoAppAutomationSuit -->
+  </suite> <!-- Default Suite -->
+</testng-results>
